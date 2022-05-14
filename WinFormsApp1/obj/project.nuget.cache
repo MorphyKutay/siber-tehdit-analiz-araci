@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mMqpQzbCm83eQOMTX6togTNqUjnjgddsri2pBd8uiXud9tIt3IXgD5pLrLGkbO8jjiczg+BPfRm9JxRJEDhWCw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aydog\\source\\repos\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aydog\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\aydog\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

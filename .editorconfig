@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS8619: Değerdeki başvuru türlerinin boş değer atanabilirliği hedef tür ile eşleşmiyor.
+dotnet_diagnostic.CS8619.severity = none
